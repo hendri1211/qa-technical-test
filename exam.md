@@ -1,7 +1,7 @@
 ## Test Planning
 
 
-1. Write test scenarios and test cases to verify the functionality of Create a Job page. Apply decision tables, boundary value analysis to test out all the form fields as necessary. 
+1. Write test scenarios and test cases to verify the functionality of Create a Job page. Apply Decision Tables, Boundary Value Analysis, Equivalence Partitioning to test out all the form fields where necessary. 
 
 URL: https://employers.staging.glints.id/
 
