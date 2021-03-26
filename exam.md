@@ -5,7 +5,7 @@
 
 ## Test Execution 
 
-2. Create a complete bug report for defects found. (Plus points for using open source tools that can be integrated with Jira)
+2. Do ad-hoc testing in Free Job MarketPlace and create a complete bug report for defects found. (Plus points for using open source tools that can be integrated with Jira)
 3. From the tests that you have written in item 1, identify which tests should be automated and included in the regression test suite. Translate these test scenarios into test scripts and run your tests using our tool (link below).
 
 **Note: Details for the application to test, automation tool and credentials will be sent via email. 
