@@ -1,5 +1,5 @@
 ## Test Items
-1. Create a comprehensive list of test scenarios to verify the functionality of the signup page, make sure to cover all golden-paths, error validation and edge cases to fully test the form page
+1. Create a comprehensive list of test scenarios to verify the functionality of the create a job page, make sure to cover all golden-paths, error validation and edge cases to fully test the form page
 3. Do ad-hoc testing in the Free Job MarketPlace and create a complete bug report for defects found. 
 4. From the tests that you have written in item 1, identify which tests should be automated and included in the automation test suite. Translate these test scenarios into test scripts and run your tests using our test automation tool. 
 
@@ -9,9 +9,8 @@ _**Note: Details for the application to test, automation tool and credentials wi
 ## What to Submit
 
 ### Item 1
-- Navigate to the `/signup` page from the homepage by clicking "SIGN UP" in the sticky header menu
-- Once routed to the `/signup` page, click "SIGN UP WITH EMAIL" to access the sign up form page
-- In the `signup-email` form page, you may begin doing exploratory tests to assess how the application behaves and you may start designing your tests
+- Navigate to the `/job/create` page from the dashbord by clicking Post a Job in the dashboard page
+- In the `` form page, you may begin doing exploratory tests to assess how the application behaves and you may start designing your tests
 - You can share your tests with us through a doc or spreadsheet file
 
 ### Item 2
