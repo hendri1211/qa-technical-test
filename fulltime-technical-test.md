@@ -9,8 +9,8 @@ _**Note: Details for the application to test, automation tool and credentials wi
 
 ### Item 1
 - Navigate to the `/job/create` page from the dashbord by clicking Post a Job in the dashboard page
-- In the `` form page, you may begin doing exploratory tests to assess how the application behaves and you may start designing your tests
-- You can share your tests with us through a doc or spreadsheet file
+- In the `Create Your Job Post` form page, you may begin doing exploratory tests to assess how the application behaves and you may start designing your tests
+- You can share your tests with us through a doc or spreadsheet file via shareable link
 
 ### Item 2
   - After creating your own account in UIlicious, you may go ahead and create your own test folders to start scripting
